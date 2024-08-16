@@ -1,4 +1,6 @@
 # 🖥️ MDM Laptop Tracking Device
+![furyyyyy-02](https://github.com/user-attachments/assets/d1181a51-c5de-4ba2-a718-4b4b5ca71ee9)
+
 
 Welcome to the **MDM Laptop Tracking Device** repository! This project was developed from scratch, utilizing geocoding and geolocation APIs to provide **100% accurate** tracking for laptops. The solution is built using Python, C#, and Firebase, and is designed to run seamlessly in the background.
 
